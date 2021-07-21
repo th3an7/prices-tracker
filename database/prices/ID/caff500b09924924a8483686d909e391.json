@@ -2,22 +2,22 @@
   "id": "caff500b09924924a8483686d909e391",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 21732900,
+      "paymentCurrencyAmount": 19600700,
       "paymentCurrencyCode": "IDR",
       "paymentCurrencyExchangeRate": null,
       "paymentCurrencySymbol": "Rp"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1363,
+      "basePayoutPrice": 1226,
       "convenienceFee": 0,
       "currencyCode": "USD",
-      "discount": 0,
-      "discountPrice": 1499,
+      "discount": 150,
+      "discountPrice": 1349,
       "originalPrice": 1499,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 136,
+      "vat": 123,
       "voucherDiscount": 0
     }
   }
