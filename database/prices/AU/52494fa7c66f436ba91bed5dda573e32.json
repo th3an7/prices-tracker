@@ -1,0 +1,24 @@
+{
+  "id": "52494fa7c66f436ba91bed5dda573e32",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 2365,
+      "paymentCurrencyCode": "AUD",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "$"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 1579,
+      "convenienceFee": 0,
+      "currencyCode": "AUD",
+      "discount": 6734,
+      "discountPrice": 2365,
+      "originalPrice": 9099,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 215,
+      "voucherDiscount": 0
+    }
+  }
+}
