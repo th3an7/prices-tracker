@@ -1,0 +1,24 @@
+{
+  "id": "4bdbe4d91f084966aed33eeb5ebb71fd",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 6210,
+      "paymentCurrencyCode": "CNY",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "¥"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 960,
+      "convenienceFee": 0,
+      "currencyCode": "CNY",
+      "discount": 690,
+      "discountPrice": 6210,
+      "originalPrice": 6900,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}
