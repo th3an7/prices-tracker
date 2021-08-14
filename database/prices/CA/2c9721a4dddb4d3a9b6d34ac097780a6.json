@@ -1,0 +1,24 @@
+{
+  "id": "2c9721a4dddb4d3a9b6d34ac097780a6",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 3999,
+      "paymentCurrencyCode": "CAD",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "$"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 3194,
+      "convenienceFee": 0,
+      "currencyCode": "CAD",
+      "discount": 1000,
+      "discountPrice": 3999,
+      "originalPrice": 4999,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}
