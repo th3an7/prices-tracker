@@ -1,0 +1,24 @@
+{
+  "id": "a06d228683994e718d1c431e434b4064",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 77799,
+      "paymentCurrencyCode": "SEK",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "kr"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 7151,
+      "convenienceFee": 0,
+      "currencyCode": "SEK",
+      "discount": 0,
+      "discountPrice": 77799,
+      "originalPrice": 77799,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 15560,
+      "voucherDiscount": 0
+    }
+  }
+}
