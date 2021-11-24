@@ -2,22 +2,22 @@
   "id": "005e465caa88467295daebfc1c55f662",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 1756,
-      "paymentCurrencyCode": "USD",
+      "paymentCurrencyAmount": 10499900,
+      "paymentCurrencyCode": "IDR",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "$"
+      "paymentCurrencySymbol": "Rp"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1756,
+      "basePayoutPrice": 670,
       "convenienceFee": 0,
-      "currencyCode": "USD",
-      "discount": 0,
-      "discountPrice": 1756,
-      "originalPrice": 1756,
+      "currencyCode": "IDR",
+      "discount": 3500000,
+      "discountPrice": 10499900,
+      "originalPrice": 13999900,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 0,
+      "vat": 954500,
       "voucherDiscount": 0
     }
   }
