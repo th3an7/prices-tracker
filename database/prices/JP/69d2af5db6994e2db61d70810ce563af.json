@@ -2,22 +2,22 @@
   "id": "69d2af5db6994e2db61d70810ce563af",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 676,
+      "paymentCurrencyAmount": 2050,
       "paymentCurrencyCode": "JPY",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "¥"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 542,
+      "basePayoutPrice": 1638,
       "convenienceFee": 0,
       "currencyCode": "JPY",
-      "discount": 1374,
-      "discountPrice": 676,
+      "discount": 0,
+      "discountPrice": 2050,
       "originalPrice": 2050,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 61,
+      "vat": 186,
       "voucherDiscount": 0
     }
   }
