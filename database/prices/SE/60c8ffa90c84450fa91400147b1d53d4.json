@@ -2,22 +2,22 @@
   "id": "60c8ffa90c84450fa91400147b1d53d4",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 16400,
+      "paymentCurrencyAmount": 4100,
       "paymentCurrencyCode": "SEK",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "kr"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1445,
+      "basePayoutPrice": 363,
       "convenienceFee": 0,
       "currencyCode": "SEK",
-      "discount": 0,
-      "discountPrice": 16400,
+      "discount": 12300,
+      "discountPrice": 4100,
       "originalPrice": 16400,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 3280,
+      "vat": 820,
       "voucherDiscount": 0
     }
   }
