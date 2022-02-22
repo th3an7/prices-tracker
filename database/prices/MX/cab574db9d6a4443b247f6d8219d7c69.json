@@ -1,0 +1,24 @@
+{
+  "id": "cab574db9d6a4443b247f6d8219d7c69",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 43028,
+      "paymentCurrencyCode": "MXN",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "$"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 2116,
+      "convenienceFee": 0,
+      "currencyCode": "MXN",
+      "discount": 0,
+      "discountPrice": 43028,
+      "originalPrice": 43028,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}
