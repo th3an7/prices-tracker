@@ -2,19 +2,19 @@
   "id": "6a436e33714f40fdbcf44d28e037cf29",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 2199,
+      "paymentCurrencyAmount": 1799,
       "paymentCurrencyCode": "AED",
-      "paymentCurrencyExchangeRate": null,
+      "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "د.إ"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 599,
+      "basePayoutPrice": 490,
       "convenienceFee": 0,
-      "currencyCode": "USD",
-      "discount": 200,
-      "discountPrice": 599,
-      "originalPrice": 799,
+      "currencyCode": "AED",
+      "discount": 600,
+      "discountPrice": 1799,
+      "originalPrice": 2399,
       "originalUnitPrice": null,
       "unitPrice": null,
       "vat": 0,
