@@ -1,0 +1,24 @@
+{
+  "id": "acade1bf41b244cb8fba9162d6ea1705",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 45500,
+      "paymentCurrencyCode": "NOK",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "kr"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 3641,
+      "convenienceFee": 0,
+      "currencyCode": "NOK",
+      "discount": 19500,
+      "discountPrice": 45500,
+      "originalPrice": 65000,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 9100,
+      "voucherDiscount": 0
+    }
+  }
+}
