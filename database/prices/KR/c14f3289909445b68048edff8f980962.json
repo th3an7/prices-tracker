@@ -1,0 +1,24 @@
+{
+  "id": "c14f3289909445b68048edff8f980962",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 6000,
+      "paymentCurrencyCode": "KRW",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "₩"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 418,
+      "convenienceFee": 0,
+      "currencyCode": "KRW",
+      "discount": 0,
+      "discountPrice": 6000,
+      "originalPrice": 6000,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 540,
+      "voucherDiscount": 0
+    }
+  }
+}
