@@ -1,0 +1,24 @@
+{
+  "id": "0d4afc39757c43db8f62eb59d82223d9",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 30800,
+      "paymentCurrencyCode": "UAH",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "₴"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 1038,
+      "convenienceFee": 0,
+      "currencyCode": "UAH",
+      "discount": 0,
+      "discountPrice": 30800,
+      "originalPrice": 30800,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}
