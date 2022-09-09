@@ -2,7 +2,7 @@
   "id": "061f452968604bceaf75f96df18acfaf",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 1000,
+      "paymentCurrencyAmount": 998,
       "paymentCurrencyCode": "EUR",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "€"
@@ -13,11 +13,11 @@
       "convenienceFee": 0,
       "currencyCode": "EUR",
       "discount": 0,
-      "discountPrice": 1000,
-      "originalPrice": 1000,
+      "discountPrice": 998,
+      "originalPrice": 998,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 153,
+      "vat": 152,
       "voucherDiscount": 0
     }
   }
