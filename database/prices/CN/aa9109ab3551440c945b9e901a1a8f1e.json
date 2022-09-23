@@ -1,0 +1,24 @@
+{
+  "id": "aa9109ab3551440c945b9e901a1a8f1e",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 850,
+      "paymentCurrencyCode": "CNY",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "¥"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 120,
+      "convenienceFee": 0,
+      "currencyCode": "CNY",
+      "discount": 850,
+      "discountPrice": 850,
+      "originalPrice": 1700,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}
