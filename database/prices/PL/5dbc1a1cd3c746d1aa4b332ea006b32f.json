@@ -2,7 +2,7 @@
   "id": "5dbc1a1cd3c746d1aa4b332ea006b32f",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 100,
+      "paymentCurrencyAmount": 99,
       "paymentCurrencyCode": "PLN",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "zł"
@@ -13,8 +13,8 @@
       "convenienceFee": 0,
       "currencyCode": "PLN",
       "discount": 400,
-      "discountPrice": 100,
-      "originalPrice": 500,
+      "discountPrice": 99,
+      "originalPrice": 499,
       "originalUnitPrice": null,
       "unitPrice": null,
       "vat": 19,
