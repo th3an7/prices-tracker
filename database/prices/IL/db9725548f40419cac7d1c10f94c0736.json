@@ -2,18 +2,18 @@
   "id": "db9725548f40419cac7d1c10f94c0736",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 5095,
+      "paymentCurrencyAmount": 0,
       "paymentCurrencyCode": "ILS",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "₪"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1427,
+      "basePayoutPrice": 0,
       "convenienceFee": 0,
       "currencyCode": "ILS",
-      "discount": 0,
-      "discountPrice": 5095,
+      "discount": 5095,
+      "discountPrice": 0,
       "originalPrice": 5095,
       "originalUnitPrice": null,
       "unitPrice": null,
