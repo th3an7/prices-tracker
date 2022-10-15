@@ -1,0 +1,24 @@
+{
+  "id": "ffa3e62bd38d4ebf9b511c91731c353c",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 6839,
+      "paymentCurrencyCode": "BRL",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "R$"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 1284,
+      "convenienceFee": 0,
+      "currencyCode": "BRL",
+      "discount": 760,
+      "discountPrice": 6839,
+      "originalPrice": 7599,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}
