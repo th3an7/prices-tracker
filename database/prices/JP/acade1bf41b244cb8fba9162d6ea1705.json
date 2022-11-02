@@ -2,22 +2,22 @@
   "id": "acade1bf41b244cb8fba9162d6ea1705",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 4537,
+      "paymentCurrencyAmount": 8250,
       "paymentCurrencyCode": "JPY",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "¥"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 2774,
+      "basePayoutPrice": 5071,
       "convenienceFee": 0,
       "currencyCode": "JPY",
-      "discount": 3713,
-      "discountPrice": 4537,
+      "discount": 0,
+      "discountPrice": 8250,
       "originalPrice": 8250,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 412,
+      "vat": 750,
       "voucherDiscount": 0
     }
   }
