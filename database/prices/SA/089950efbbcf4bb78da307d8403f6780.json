@@ -2,22 +2,22 @@
   "id": "089950efbbcf4bb78da307d8403f6780",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 1188,
+      "paymentCurrencyAmount": 3495,
       "paymentCurrencyCode": "SAR",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "ر.س"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 275,
+      "basePayoutPrice": 810,
       "convenienceFee": 0,
       "currencyCode": "SAR",
-      "discount": 2307,
-      "discountPrice": 1188,
+      "discount": 0,
+      "discountPrice": 3495,
       "originalPrice": 3495,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 155,
+      "vat": 456,
       "voucherDiscount": 0
     }
   }
