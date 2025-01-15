@@ -1,0 +1,24 @@
+{
+  "id": "4c6e1fa2a8564399bb406ec1c58550f1",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 1615,
+      "paymentCurrencyCode": "ILS",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "₪"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 446,
+      "convenienceFee": 0,
+      "currencyCode": "ILS",
+      "discount": 180,
+      "discountPrice": 1615,
+      "originalPrice": 1795,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}
