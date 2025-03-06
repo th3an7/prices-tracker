@@ -1,0 +1,24 @@
+{
+  "id": "faab1530ed5d47bf96551689be474e5e",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 8602,
+      "paymentCurrencyCode": "CAD",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "$"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 5999,
+      "convenienceFee": 0,
+      "currencyCode": "CAD",
+      "discount": 0,
+      "discountPrice": 8602,
+      "originalPrice": 8602,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}
