@@ -1,0 +1,24 @@
+{
+  "id": "37b9f66e63ec4975bfedadb96e5da17d",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 375866,
+      "paymentCurrencyCode": "MXN",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "$"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 15999,
+      "convenienceFee": 0,
+      "currencyCode": "MXN",
+      "discount": 0,
+      "discountPrice": 375866,
+      "originalPrice": 375866,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 51844,
+      "voucherDiscount": 0
+    }
+  }
+}
