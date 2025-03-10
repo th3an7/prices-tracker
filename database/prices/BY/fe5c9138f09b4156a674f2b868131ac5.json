@@ -1,0 +1,24 @@
+{
+  "id": "fe5c9138f09b4156a674f2b868131ac5",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 53210,
+      "paymentCurrencyCode": "RUB",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "₽"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 499,
+      "convenienceFee": 0,
+      "currencyCode": "RUB",
+      "discount": 0,
+      "discountPrice": 53210,
+      "originalPrice": 53210,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 8868,
+      "voucherDiscount": 0
+    }
+  }
+}
